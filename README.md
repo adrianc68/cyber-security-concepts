@@ -1322,8 +1322,8 @@ Different software development methodologies incorporate specific practices and 
 | Operations & Maintenance | Security Assessments     |
 
 
-![](images/Pasted%20Graphic%202 4.png)
-![](images/Pasted%20Graphic%203 2.png)
+![](images/Pasted%20Graphic%202%204.png)
+![](images/Pasted%20Graphic%203%202.png)
 
 # Regulations
 
